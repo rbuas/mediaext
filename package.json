@@ -18,7 +18,7 @@
   "dependencies": {
     "fast-exif": "^0.2.0",
     "image-size": "^0.5.1",
-    "jsext": "^1.0.2",
+    "jsext": "^1.0.6",
     "sax": "^1.2.2",
     "sharp": "^0.17.3",
     "moment": "^2.18.1"
